@@ -24,7 +24,7 @@ import app.rbzeta.contactmanager.view.IContactAddNewView;
 import static com.bumptech.glide.load.resource.bitmap.TransformationUtils.rotateImage;
 
 /**
- * Created by Robyn on 04/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public class ContactAddNewPresenterImpl implements ContactAddNewPresenter,

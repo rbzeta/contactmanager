@@ -3,7 +3,7 @@ package app.rbzeta.contactmanager.contract;
 import android.provider.BaseColumns;
 
 /**
- * Created by Robyn on 01/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public class ContactContract {

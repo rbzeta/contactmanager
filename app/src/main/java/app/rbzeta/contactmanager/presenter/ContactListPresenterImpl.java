@@ -10,7 +10,7 @@ import app.rbzeta.contactmanager.receiver.ConnectivityReceiver;
 import app.rbzeta.contactmanager.view.IContactListView;
 
 /**
- * Created by Robyn on 04/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public class ContactListPresenterImpl implements ContactListPresenter,ContactListInteractor.OnFinishedLoadContactListener {

@@ -3,7 +3,7 @@ package app.rbzeta.contactmanager.model;
 import java.util.List;
 
 /**
- * Created by Robyn on 04/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public interface ContactListInteractor {

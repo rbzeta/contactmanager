@@ -9,7 +9,7 @@ import android.net.NetworkInfo;
 import app.rbzeta.contactmanager.application.MyApplication;
 
 /**
- * Created by Robyn on 01/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public class ConnectivityReceiver extends BroadcastReceiver {

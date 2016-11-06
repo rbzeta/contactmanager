@@ -14,7 +14,7 @@ import app.rbzeta.contactmanager.contract.ContactContract;
 import app.rbzeta.contactmanager.model.Contact;
 
 /**
- * Created by Robyn on 01/11/2016.
+ * Created by Robyn on 05/11/2016.
  */
 
 public class MyDBHandler extends SQLiteOpenHelper {
