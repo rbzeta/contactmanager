@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="action_add_contact">Add New Contact</string>
+    <string name="activity_title_contact_detail">Detail</string>
+    <string name="text_first_name">My Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_test_phone">+628170908070</string>
+    <string name="text_test_email">test.email@domain.com</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_phone_number">Mobile Number</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="button_save">Save</string>
+    <string name="err_no_connection">Not able to connect to Server</string>
+    <string name="title_dialog_loading_contact">Loading Contact</string>
+    <string name="msg_please_wait">Please wait...</string>
+    <string name="activity_title_contact_list">Contact Book</string>
+    <string name="activity_title_contact_add">Add Contact</string>
+    <string name="text_send_message">Send Message</string>
+    <string name="text_share_contact">Share Contact</string>
+    <string name="text_no_contact_found">No Contact Found</string>
+    <string name="msg_save_contact_successfull">User successfully added</string>
+    <string name="dialog_title_network_error">Network Error</string>
+    <string name="dialog_msg_network_error">Network error, please try again.</string>
+    <string name="button_retry">Retry</string>
+    <string name="err_first_name_length">First Name not valid</string>
+    <string name="err_last_name_length">Last Name should be more than 1 character.</string>
+    <string name="err_phone_number_length">Phone Number should be more than 9 character.</string>
+    <string name="error_field_required">This field is required.</string>
+    <string name="err_email_not_valid">Email address is not valid.</string>
+    <string name="err_phone_number_not_valid">Mobile Phone Number not valid</string>
+    <string name="permission_rationale_camera">"Camera permission is needed for continuing your action."</string>
+    <string name="permission_rationale_storage">"Write storage permission is needed for continuing your action."
+    </string>
+    <string name="text_camera">Camera</string>
+    <string name="text_gallery">Gallery</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="dialog_title_select_image_from">Select Picture From</string>
+    <string name="msg_device_no_camera">Your device has no camera.</string>
+    <string name="dialog_title_select_picture">Select Picture</string>
+    <string name="err_update_contact">Failed to update contact.</string>
+    <string name="msg_success_update_contact">Contact has been marked as favorite</string>
+    <string name="err_create_contact">Failed to create contact</string>
+    <string name="title_fragment_all_contact">All Contacts</string>
+    <string name="title_fragment_favorite_contact">Favorites</string>
+</resources>

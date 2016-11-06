@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:clickable="true"
+    android:background="?attr/selectableItemBackground">
+    <ImageView
+        android:id="@+id/img_contact_list"
+        android:layout_width="@dimen/img_contact_list_width"
+        android:layout_height="@dimen/img_contact_list_height" />
+
+    <TextView
+        android:id="@+id/text_contact_name"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        style="@style/TextAppearance.AppCompat.Body1"/>
+
+</LinearLayout>
